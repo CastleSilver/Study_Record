@@ -19,7 +19,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/CastleSilver/Study_Record/tree/main/Java-Standard">
-          <img src="/CastleSilver/Study_Record/tree/main/images/x9788994492032.jpg" width="400px" height="300px" style="max-width: 100%;">
+          <img src="./images/x9788994492032.jpg" width="400px" height="300px" style="max-width: 100%;">
         </a>
       </td>
       <td align="center">
