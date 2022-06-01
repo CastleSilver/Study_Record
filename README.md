@@ -5,7 +5,7 @@
   <thead>
     <tr>
       <th align=center>
-        <a href="">자바의 정석</a>
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/Java-Standard">자바의 정석</a>
       </th>
       <th align=center>
         <a href="">Do it! Jump to Python</a>
@@ -18,8 +18,8 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="">
-          <img src="https://user-images.githubusercontent.com/95426849/171337821-1918061a-0fba-4afa-95bf-e7fd8b859bc8.jpg" width="400px" height="300px" style="max-width: 100%;">
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/Java-Standard">
+          <img src="/CastleSilver/Study_Record/blob/main/images/x9788994492032.jpg" width="400px" height="300px" style="max-width: 100%;">
         </a>
       </td>
       <td align="center">
