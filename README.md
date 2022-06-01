@@ -8,7 +8,7 @@
         <a href="https://github.com/CastleSilver/Study_Record/tree/main/Java-Standard">자바의 정석</a>
       </th>
       <th align=center>
-        <a href="">Do it! Jump to Python</a>
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/Jump-to-Python">Do it! Jump to Python</a>
       </th>
       <th align=center>
         <a href=""></a>
@@ -23,7 +23,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/Jump-to-Python">
+          <img src="./images/XL.jpg" width="400px" height="300px" style="max-width: 100%;">
         </a>
       </td>
       <td align="center">
