@@ -3,7 +3,7 @@
 
 <br/>
 
-## 📖읽는 중
+## 📖BOOKS
 <table>
   <thead>
     <tr>
@@ -39,3 +39,7 @@
     </tr>
   </tbody>
 </table>
+<br/>
+
+## 👩‍🏫LECTURES
++ [스프링 핵심 원리 - 기본편 <김영한>](https://github.com/CastleSilver/Study_Record/tree/main/SpringBoot-Basic)
