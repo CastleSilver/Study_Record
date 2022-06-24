@@ -18,7 +18,9 @@ import spring.VersionPrinter;
 
 @Configuration
 @ComponentScan(basePackages = {"spring"},
-		excludeFilters = @Filter(type = FilterType.REGEX,pattern = "spring\\..*Dao"))
+//		excludeFilters = @Filter(type = FilterType.REGEX,pattern = "spring\\..*Dao"))
+//		excludeFilters = @Filter(type = FilterType.ASPECTJ,pattern = "spring.*Dao"))
+		excludeFilters = @Filter(type = FilterType.ASSIGNABLE_TYPE, classes = MemberDao.class))
 public class AppCtxWithExclude {
 	@Bean
 	public MemberDao MemberDao() {
