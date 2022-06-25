@@ -11,10 +11,13 @@
   2. 클래스 로딩 시점에 바이트 코드에 공통 기능을 삽입
   3. 런타임에 프록시 객체를 생성해서 공통 기능을 삽입
 + 1번과 2번은 AspectJ와 같이 AOP 전용 도구를 사용해서 적용할 수 있고 3번은 스프링에서 제공해준다.
+
 ![](https://velog.velcdn.com/images/aysel0230/post/f1dd6d31-3ff0-433f-a61e-ff8034cf0bda/image.png)
 + AOP 주요 용어
+
 ![](https://velog.velcdn.com/images/aysel0230/post/6fa6d612-3631-4da5-b969-7c67c0d11f1e/image.png)
 + 스프링에서 구현 가능한 Advice 종류
+
 ![](https://velog.velcdn.com/images/aysel0230/post/81c37b5d-4d8d-45e3-958d-e19e80829e68/image.png)
 
 # 스프링 AOP 구현
@@ -32,6 +35,7 @@ execution(수식어패턴? 리턴타입패턴 클래스이름패턴?메서드이
 + 수식어패턴은 생략 가능하다.
 + `*`을 이용해 모든 값을 표현할 수 있다.
 + `..`을 이용해 0개 이상이라는 의미를 표현할 수 있다.
+
 ![](https://velog.velcdn.com/images/aysel0230/post/ab607145-5b61-4e23-9526-5f6e24499a46/image.png)
 
 ## Advice 적용 순서
