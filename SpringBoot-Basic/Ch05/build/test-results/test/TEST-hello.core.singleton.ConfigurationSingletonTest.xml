@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.singleton.ConfigurationSingletonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-28T12:58:21" hostname="DESKTOP-4JT99OM" time="0.157">
+  <properties/>
+  <testcase name="configurationDeep()" classname="hello.core.singleton.ConfigurationSingletonTest" time="0.123"/>
+  <testcase name="configurationTest()" classname="hello.core.singleton.ConfigurationSingletonTest" time="0.025"/>
+  <system-out><![CDATA[call AppConfig.memberService
+call AppConfig.memberRepository
+call AppConfig.orderService
+bean = class hello.core.AppConfig$$EnhancerBySpringCGLIB$$eb9f733
+call AppConfig.memberService
+call AppConfig.memberRepository
+call AppConfig.orderService
+memberService -> memberRepository1 = hello.core.member.MemoryMemberRepository@563a89b5
+orderService -> memberRepository2 = hello.core.member.MemoryMemberRepository@563a89b5
+memberRepository = hello.core.member.MemoryMemberRepository@563a89b5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
