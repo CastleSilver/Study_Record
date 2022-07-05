@@ -41,7 +41,7 @@
         <a href="https://github.com/CastleSilver/Study_Record/tree/main/Toby-Spring">토비의 스프링 3.1</a>
       </td>
       <td align=center>
-        <a href=""></a>
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/JPA_Programming">JPA 프로그래밍 </a>
       </td>
       <td align=center>
         <a href=""></a>
@@ -54,7 +54,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/CastleSilver/Study_Record/tree/main/JPA_Programming">
+          <img src="./images/jpa.jpg" width="400px" height="300px" style="max-width: 100%;">
         </a>
       </td>
       <td align="center">
