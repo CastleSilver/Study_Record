@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch04-model1/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-model2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06-model3/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-model4/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08-model5/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09-model6/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11-jpa-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-jpa-start1/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-jpa-start2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12-springdata-shop/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
